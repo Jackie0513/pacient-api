@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Jéss",
+        "peso": 47,
+        "altura": 1.54,
+        "grasa": 17,
+        "imc": 19.82
+    },
+    {
+        "nombre": "Pedro",
+        "peso": 70,
+        "altura": 1.7,
+        "grasa": 17,
+        "imc": 24.22
+    },
+    {
+        "nombre": "Teresa",
+        "peso": 60,
+        "altura": 1.7,
+        "grasa": 13,
+        "imc": 20.76
+    },
+    {
+        "nombre": "Maria",
+        "peso": 75,
+        "altura": 1.7,
+        "grasa": 26,
+        "imc": 25.95
+    },
+    {
+        "nombre": "Luis",
+        "peso": 23,
+        "altura": 1.25,
+        "grasa": 10,
+        "imc": 14.72
+    },
+    {
+        "nombre": "Ericka",
+        "peso": 73,
+        "altura": 1.75,
+        "grasa": 10,
+        "imc": 23.84
+    },
+    {
+        "nombre": "Camilo",
+        "peso": 78,
+        "altura": 1.85,
+        "grasa": 19,
+        "imc": 22.79
+    }
+]
